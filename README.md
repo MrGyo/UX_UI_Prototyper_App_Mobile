@@ -1,9 +1,12 @@
 # OC - Parcours UX Designer
 
 ## 📝 Prototyper une application mobile
-Trouvez un site où vous avez identifié, au préalable, des pistes d’améliorations, pour l’auditer, en étant objectif et respectueux. Regardez quels sont les parcours des utilisateurs pour y accéder (est-ce une redirection ou un accès grâce à un bon référencement SEO ?), analysez la navigation et les différents contenus.
+Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’application. Trouvez ensemble quelques sujets que vous pourrez exploiter pour votre idée d’application. Bien évidemment,vous pourrez faire une veille rapide pour voir s'il existe déjà des applications similaires.
 
 ## 🏆 Compétences évaluées 
-* Réaliser une veille et un benchmark concurrentiel sur un projet
-* Auditer l'expérience utilisateur d'un service digital
-* Réaliser des tests d'utilisabilité
+* Concevoir des wireframes web ou mobile
+* Concevoir un prototype cliquable
+* Travailler l'architecture de l'information, le zoning et la structure de l'écran
+* Livrer des composants et spécifications graphiques
+* Réaliser des livrables de qualité et cohérents
+* Tester des parcours et des fonctionnalités
