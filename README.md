@@ -10,3 +10,6 @@ Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’
 * Livrer des composants et spécifications graphiques
 * Réaliser des livrables de qualité et cohérents
 * Tester des parcours et des fonctionnalités
+
+## 🎥 Présentation
+* [Démo vidéo](https://www.youtube.com/watch?v=tEK060l4csg)
