@@ -1,7 +1,7 @@
 # OC - Parcours UX Designer
 
 ## 📝 Prototyper une application mobile
-Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’application. Trouvez ensemble quelques sujets que vous pourrez exploiter pour votre idée d’application. Bien évidemment,vous pourrez faire une veille rapide pour voir s'il existe déjà des applications similaires.
+Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’application. Trouvez ensemble quelques sujets que vous pourrez exploiter pour votre idée d’application. Bien évidemment, vous pourrez faire une veille rapide pour voir s'il existe déjà des applications similaires.
 
 ## 🏆 Compétences évaluées 
 * Concevoir des wireframes web ou mobile
