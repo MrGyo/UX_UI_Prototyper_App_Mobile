@@ -13,3 +13,6 @@ Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’
 
 ## 🎥 Présentation
 * [Démo vidéo](https://www.youtube.com/watch?v=tEK060l4csg)
+
+## 📱 Prototype
+* [Lien vers le protoype Adobe XD](https://xd.adobe.com/view/faac774b-305c-4c0a-bcca-4816cf441183-afff/)
