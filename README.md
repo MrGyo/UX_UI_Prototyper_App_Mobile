@@ -1,7 +1,7 @@
 # UX/UI Design
 
 ## 📝 Prototyper une application mobile
-Vous allez, avec l’aide d’une autre personne, réfléchir sur une idée d’application. Trouvez ensemble quelques sujets que vous pourrez exploiter pour votre idée d’application. Bien évidemment, vous pourrez faire une veille rapide pour voir s'il existe déjà des applications similaires.
+Ce projet personnel est né quelques mois après l’évolution législative du 10 juin 2020 concernant la protection des mineurs sur internet en France et plus précisément l’accès à la pornographie sur internet. En effet, Le législateur rend aujourd'hui obligatoire la certification de la majorité des utilisateurs se rendant sur des sites adultes. Ce qui veut dire qu’à défaut de contrôle effectif de la majorité, les sites seront en théorie purement et simplement bloqués. Plusieurs plaintes ont déjà été déposées par des associations de famille au CSA et des injonctions ont été envoyées à 8 grands sites adultes. J’ai donc décidé de constituer une petite équipe et de travailler sur une solution non intrusive qui permettrait de certifier de manière effective la majorité des utilisateurs. Autrement dit contrôler l'âge légal des utilisateurs sans avoir recours à des données dites sensibles (pièce d’identité, CB, numéro de sécurité sociale…). Protéger les mineurs mais aussi garantir l’anonymat des majeurs. L’enjeu était donc double.
 
 ## 🏆 Compétences évaluées 
 * Concevoir des wireframes web ou mobile
