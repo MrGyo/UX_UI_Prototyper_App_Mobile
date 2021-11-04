@@ -7,9 +7,3 @@
 * Livrer des composants et spécifications graphiques
 * Réaliser des livrables de qualité et cohérents
 * Tester des parcours et des fonctionnalités
-
-## 🎥 Présentation
-* [Démo vidéo](https://www.youtube.com/watch?v=tEK060l4csg)
-
-## 📱 Prototype
-* [Lien vers le protoype Adobe XD](https://xd.adobe.com/view/faac774b-305c-4c0a-bcca-4816cf441183-afff/)
