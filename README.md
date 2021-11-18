@@ -1,4 +1,4 @@
-# UX/UI Design - Prototyper une application mobile
+## UX/UI Design - Prototyper une application mobile
 
 ## 🏆 Compétences
 * Concevoir des wireframes web ou mobile
